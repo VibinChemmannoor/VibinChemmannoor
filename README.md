@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VibinChemmannoor
-- 👀 I’m interested in Angular Projects
-- 🌱 I’m currently junior angular developer
+- 👀 I’m interested in Angular and React Projects
+- 🌱 I’m currently Software developer
 - 💞️ I’m looking to collaborate on project that upgrade my skills
 
 
